@@ -11,3 +11,5 @@
 * Font Awesome
 
 * Photos from PixaBay ([Link](https://pixabay.com/))
+
+### Try It Out: [Live Page Here](https://kmalillos.github.io/shaneco-basic/)
